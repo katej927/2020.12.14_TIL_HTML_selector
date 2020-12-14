@@ -1,0 +1,6 @@
+p.p-tag {      # p태그이면서 p-tag 클래스
+  color: gray; 
+}
+p#third-line { # p태그이면서 third-line 아이디
+  text-decoration: underline;
+}
